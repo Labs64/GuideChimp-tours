@@ -17,6 +17,13 @@ Deliver the perfect product experience, improve digital product adoption, boost 
 - Once you're done with your changes, send a [Pull Request](https://github.com/Labs64/GuideChimp-tours/pulls).
 - We will verify your Pull Request and merge this into the repository.
 
+## Ressources
+
+- GuideChimp website: [labs64.com/guidechimp](https://www.labs64.com/guidechimp/)
+- GuideChimp repo: [Labs64/GuideChimp](https://github.com/Labs64/GuideChimp)
+- [GuideChimp Chrome Extension](https://chrome.google.com/webstore/detail/guidechimp-chrome-extensi/afecedbgkfoijeligfjflidfddndnjng)
+- Chrome Extension sample tour at [netlicensing.io](https://netlicensing.io)
+
 ## Bugs and Feedback
 
 For bugs, questions and discussions, please use the [Labs64/GuideChimp Issues](https://github.com/Labs64/GuideChimp/issues).
