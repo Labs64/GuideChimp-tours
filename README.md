@@ -1,4 +1,4 @@
-# GuideChimp public tours
+# GuideChimp Public Tours
 
 <a href="https://www.linkedin.com/showcase/guidechimp/"><p align="center"><img src="https://io.labs64.com/GuideChimp/docs/img/guidechimp-logo-transparent-chrome.png" alt="GuideChimp Chrome Extension - Logo"></p></a>
 
