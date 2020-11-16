@@ -6,11 +6,6 @@
             "description": "This is your company logo."
         },
         {
-            "element": "[data-value='Leads']",
-            "title": "Leads",
-            "description": "Leads menu item"
-        },
-        {
             "element": "[data-value='xxx']",
             "title": "Accounts",
             "description": "Accounts menu item"
