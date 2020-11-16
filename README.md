@@ -2,6 +2,12 @@
 
 <a href="https://chrome.google.com/webstore/detail/guidechimp-chrome-extensi/afecedbgkfoijeligfjflidfddndnjng"><p align="center"><img src="https://io.labs64.com/GuideChimp/docs/img/guidechimp-logo-transparent-chrome.png" alt="GuideChimp Chrome Extension - Logo"></p></a>
 
+<p align="center">
+<a href="https://github.com/Labs64/GuideChimp/wiki"><img src="https://img.shields.io/badge/📖%20Documentation-Wiki-AB6543.svg" alt="📖 Documentation"></a>
+<a href="https://www.linkedin.com/showcase/guidechimp"><img src="https://img.shields.io/badge/GuideChimp-0077B5.svg?logo=LinkedIn" alt="GuideChimp @ LinkedIn"></a>
+<a href="https://github.com/Labs64/GuideChimp-tours/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="MIT License"></a>
+</p>
+
 Deliver the perfect product experience, improve digital product adoption, boost adoption of new features and simplify user onboarding with step by step interactive walkthroughs.
 
 ## Features
