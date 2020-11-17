@@ -1,7 +1,7 @@
 {
     "/reports-dashboard/.*/view/.*": [
         {
-            "element": "button>[data-key="dashboard-actions.createDashboard.name"]",
+            "element": "button>[data-key='dashboard-actions.createDashboard.name']",
             "title": "Create Dashboard",
             "description": "Create Dashboard."
         }
