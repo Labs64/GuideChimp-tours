@@ -3,7 +3,24 @@
         {
             "element": "[data-qa='action-required-count']",
             "title": "Action Required",
-            "description": "Documents count you need to work on yet."
+            "description": "Using the Action Required interface allows you to view & sign only those documents that require your action.",
+            "position": "bottom"
+        },
+        {
+            "element": "[data-qa='waiting-count']",
+            "title": "Waiting for Others",
+            "description": "The documents that have at least one recipient who has yet to complete their action.",
+            "position": "bottom"
+        },
+        {
+            "element": "[data-qa='expiring-count']",
+            "title": "Expiring Soon",
+            "description": "The documents which will expire soon.",
+            "position": "bottom"
+        },
+        {
+            "title": "Improve GuideChimp public tours",
+            "description": "Support community and help to improve GuideChimp public tours!<br>Know how to make this guided tour better or want to enable your tour?<br>Contribute to the GuideChimp Public Tours repository."
         }
     ]
 }
