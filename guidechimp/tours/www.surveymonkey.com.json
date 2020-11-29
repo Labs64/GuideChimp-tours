@@ -1,0 +1,14 @@
+{
+    "/dashboard/": [
+        {
+            "element": ".create-survey",
+            "title": "Create Survey",
+            "description": "Get survey responses from around the world in minutes.<br>Easily find your ideal respondents for market research with SurveyMonkey Audience.",
+            "position": "bottom"
+        },
+        {
+            "title": "Improve GuideChimp Public Tours",
+            "description": "Support community and help to improve <i>GuideChimp Public Tours</i>!<br>Know how to make this guided tour better or want to enable your tour?<br><br>Contribute to the <a href='https://github.com/Labs64/GuideChimp-tours' target='_blank'>GuideChimp Public Tours repository</a>"
+        }
+    ]
+}
