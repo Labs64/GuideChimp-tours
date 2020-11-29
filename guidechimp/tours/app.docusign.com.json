@@ -1,7 +1,7 @@
 {
     "/home": [
         {
-            "element": "a>[data-qa='action-required-count']",
+            "element": "[data-qa='action-required-count']",
             "title": "Action Required",
             "description": "Documents count you need to work on yet."
         }
