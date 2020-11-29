@@ -20,7 +20,8 @@ Deliver the perfect product experience, improve digital product adoption, boost 
 
 ## How to contribute
 
-- Fork the repository and add or modify your tour.
+- Fork this repository
+- Add or modify your tour (folder: `guidechimp/tours`)
 - Once you're done with your changes, send a [Pull Request](https://github.com/Labs64/GuideChimp-tours/pulls).
 - We will verify your Pull Request and merge this into the repository.
 
