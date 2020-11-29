@@ -1,5 +1,5 @@
 {
-    "/.*/dashboard": [
+    "/a/.*/dashboard": [
         {
             "element": ".__new-document-button__",
             "title": "New document",
