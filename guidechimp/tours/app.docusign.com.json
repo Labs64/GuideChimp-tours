@@ -19,8 +19,14 @@
             "position": "bottom"
         },
         {
-            "title": "Improve GuideChimp public tours",
-            "description": "Support community and help to improve GuideChimp public tours!<br>Know how to make this guided tour better or want to enable your tour?<br>Contribute to the GuideChimp Public Tours repository."
+            "title": "Improve GuideChimp Public Tours",
+            "description": "Support community and help to improve GuideChimp Public Tours!<br>Know how to make this guided tour better or want to enable your tour?<br>Contribute to the GuideChimp Public Tours repository.",
+            "buttons": [{
+                title: "GuideChimp Public Tours repository",
+                onClick: function() {
+                    alert("GuideChimp Public Tours");
+                }
+            }]
         }
     ]
 }
