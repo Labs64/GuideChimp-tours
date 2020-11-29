@@ -9,6 +9,10 @@
             "element": "[data-value='xxx']",
             "title": "Accounts",
             "description": "Accounts menu item"
+        },
+        {
+            "title": "Improve GuideChimp Public Tours",
+            "description": "Support community and help to improve <i>GuideChimp Public Tours</i>!<br>Know how to make this guided tour better or want to enable your tour?<br><br>Contribute to the <a href='https://github.com/Labs64/GuideChimp-tours' target='_blank'>GuideChimp Public Tours repository</a>"
         }
     ],
     "/crm/.*/tab/Leads/.*": [
@@ -16,6 +20,10 @@
             "element": "#lv_left_filter",
             "title": "Leads - Left Navigation",
             "description": "Left Navigation menu."
+        },
+        {
+            "title": "Improve GuideChimp Public Tours",
+            "description": "Support community and help to improve <i>GuideChimp Public Tours</i>!<br>Know how to make this guided tour better or want to enable your tour?<br><br>Contribute to the <a href='https://github.com/Labs64/GuideChimp-tours' target='_blank'>GuideChimp Public Tours repository</a>"
         }
     ]
 }
