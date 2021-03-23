@@ -2,7 +2,7 @@
     "/.*": [
         {
             "title": "Improve GuideChimp Public Tours",
-            "description": "Missing GuideChimp tour in this page?!<br><br>Support community and contribute to the <a href='https://github.com/Labs64/GuideChimp-tours' target='_blank'>GuideChimp Public Tours repository</a> to enable free public guided tour on this page."
+            "description": "Missing GuideChimp tour on this page?!<br><br>Support community and contribute to the <a href='https://github.com/Labs64/GuideChimp-tours' target='_blank'>GuideChimp Public Tours repository</a> to enable free public guided tour on this page."
         }
     ]
 }
