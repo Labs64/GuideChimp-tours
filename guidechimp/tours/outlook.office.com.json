@@ -1,0 +1,15 @@
+{
+    "/.*": [
+        {
+            "title": "Welcome to The Global School",
+            "description": "This will give you a guided tour of all websites and apps you will be using during your school year"
+        }
+    ],
+    "/mail/inbox/": [
+        {
+            "element": "O365_MainLink_NavMenu",
+            "title": "Microsoft Apps Shortcut",
+            "description": "See all the Microsoft apps that you will use for your school work."
+        }
+    ]
+}
