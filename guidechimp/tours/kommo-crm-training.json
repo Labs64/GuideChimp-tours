@@ -1,1 +1,17 @@
-
+{
+  "url": "https://godiving.kommo.com",
+  "tours": [
+    {
+      "id": "kommo-basic-training",
+      "title": "Kommo CRM Training",
+      "description": "Learn the Kommo interface and basic functions",
+      "steps": [
+        {
+          "element": "body",
+          "title": "Welcome to Kommo Training",
+          "description": "This tour will guide you through using Kommo CRM. Click Next to start."
+        }
+      ]
+    }
+  ]
+}
