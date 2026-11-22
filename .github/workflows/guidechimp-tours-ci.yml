@@ -1,0 +1,22 @@
+name: GuideChimp Tours - CI
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7
+
+      - name: Validate tour JSON
+        run: |
+          for f in guidechimp/tours/*.json; do
+            python3 -m json.tool "$f" > /dev/null || { echo "invalid: $f"; exit 1; }
+          done
