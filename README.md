@@ -1,13 +1,13 @@
 <a href="https://chrome.google.com/webstore/detail/guidechimp-chrome-extensi/afecedbgkfoijeligfjflidfddndnjng"><p align="center"><img src="https://io.labs64.com/GuideChimp/docs/img/guidechimp-logo-transparent-chrome.png" alt="GuideChimp Public Tours - Logo"></p></a>
 
 <p align="center">
-<a href="https://chrome.google.com/webstore/detail/guidechimp-chrome-extensi/afecedbgkfoijeligfjflidfddndnjng"><img src="https://img.shields.io/badge/chrome-web%20store-AB6543.svg" alt="GuideChimp @ Chrome Web Store"></a>
-<a href="https://www.npmjs.com/package/guidechimp"><img src="https://img.shields.io/npm/v/guidechimp?color=AB6543&label=npm" alt="GuideChimp @ npm"></a>
+<a href="https://chrome.google.com/webstore/detail/guidechimp-chrome-extensi/afecedbgkfoijeligfjflidfddndnjng"><img src="https://img.shields.io/badge/chrome-web%20store-4285F4.svg?logo=googlechrome&logoColor=white" alt="GuideChimp @ Chrome Web Store"></a>
+<a href="https://www.npmjs.com/package/guidechimp"><img src="https://img.shields.io/npm/v/guidechimp?label=npm&color=CB3837&logo=npm&logoColor=white" alt="GuideChimp @ npm"></a>
 <br>
-<a href="https://github.com/Labs64/GuideChimp/wiki"><img src="https://img.shields.io/badge/docs-wiki-AB6543.svg" alt="Documentation"></a>
-<a href="https://www.labs64.com/guidechimp/"><img src="https://img.shields.io/badge/website-labs64.com-AB6543.svg" alt="GuideChimp Website"></a>
-<a href="https://github.com/Labs64/GuideChimp"><img src="https://img.shields.io/badge/core-GuideChimp-AB6543.svg" alt="GuideChimp Core"></a>
-<a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-AB6543.svg" alt="MIT License"></a>
+<a href="https://github.com/Labs64/GuideChimp/wiki"><img src="https://img.shields.io/badge/docs-wiki-E14817.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii01IC01IDE1NSAxNTUiPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0zIDNoMTM5djEzOUgzWk02OSAzdjEzOWg3VjNaTTQzIDQzdjU5aDI2VjQzWk03NiA0M3Y1OWgyNlY0M1oiLz48cGF0aCBmaWxsPSIjYmJiIiBkPSJNNDkgNDloNDd2NDdINDlaIi8%2BPC9zdmc%2B" alt="Documentation"></a>
+<a href="https://www.labs64.com/guidechimp/"><img src="https://img.shields.io/badge/website-labs64.com-E14817.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii01IC01IDE1NSAxNTUiPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0zIDNoMTM5djEzOUgzWk02OSAzdjEzOWg3VjNaTTQzIDQzdjU5aDI2VjQzWk03NiA0M3Y1OWgyNlY0M1oiLz48cGF0aCBmaWxsPSIjYmJiIiBkPSJNNDkgNDloNDd2NDdINDlaIi8%2BPC9zdmc%2B" alt="GuideChimp Website"></a>
+<a href="https://github.com/Labs64/GuideChimp"><img src="https://img.shields.io/badge/core-GuideChimp-E14817.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii01IC01IDE1NSAxNTUiPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0zIDNoMTM5djEzOUgzWk02OSAzdjEzOWg3VjNaTTQzIDQzdjU5aDI2VjQzWk03NiA0M3Y1OWgyNlY0M1oiLz48cGF0aCBmaWxsPSIjYmJiIiBkPSJNNDkgNDloNDd2NDdINDlaIi8%2BPC9zdmc%2B" alt="GuideChimp Core"></a>
+<a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-E14817.svg?logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii01IC01IDE1NSAxNTUiPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0zIDNoMTM5djEzOUgzWk02OSAzdjEzOWg3VjNaTTQzIDQzdjU5aDI2VjQzWk03NiA0M3Y1OWgyNlY0M1oiLz48cGF0aCBmaWxsPSIjYmJiIiBkPSJNNDkgNDloNDd2NDdINDlaIi8%2BPC9zdmc%2B" alt="MIT License"></a>
 </p>
 
 # GuideChimp Public Tours
